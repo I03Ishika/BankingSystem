@@ -1,0 +1,26 @@
+/* Details.css */
+
+.details-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .details-column {
+    flex: 1;
+  }
+  
+  .details-box {
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .buttons-container {
+    margin-top: 20px;
+  }
+  
+  button {
+    margin-right: 10px;
+  }
+  
